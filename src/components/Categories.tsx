@@ -2,9 +2,9 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Casual from "@/public/casual.png"
-import Formal from "@/public/formal.jpg"
+import Formal from "@/public/formal1.jpg"
 import Gym from "@/public/Gym.jpg"
-import Party from "@/public/party.jpg"
+import Party from "@/public/poloshirt1.jpg"
 
 const Categories = () => {
   // Animation variants for images
